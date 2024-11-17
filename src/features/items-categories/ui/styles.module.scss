@@ -1,0 +1,14 @@
+.navigation_block {
+	display: flex;
+	img {
+		margin-right: 10px;
+	}
+	&_item {
+		margin: 0 17px;
+		font-weight: 400;
+		font-size: 17px;
+		line-height: 26px;
+		text-align: center;
+		color: #393E46;
+	}
+}

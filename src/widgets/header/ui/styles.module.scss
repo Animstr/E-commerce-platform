@@ -1,0 +1,10 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	&_right {
+		display: flex;
+		&_item {
+			margin-left: 32px;
+		}
+	}
+}
